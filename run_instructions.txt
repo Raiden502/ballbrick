@@ -1,0 +1,15 @@
+BALL BRICK GAME
+
+SOFTWARE REQUIREMENTS:
+1. Python 3.6 or above
+2. Pycharm or Visual studio code
+
+INSTRUCTIONS:
+1. Open extracted folder name "ballbrick" in editor. 
+2. Navigate to the file named "main.py" in root folder which is main file to run the code.
+3. Run "main.py" and enter inputs.
+4. There is package named game which is a custom package i created and it contains source code 
+   for implementations of functions that are used in main file.
+
+   - game package contains "matrixtraverse.py" file indicates implementations of main file.
+
