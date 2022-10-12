@@ -1,6 +1,6 @@
 # Ballbrick-Game
 
-- Ballbrick is old school game implemented in python. Allows users to play game in command line, It is based on matrix approach It contains bricks having different  powers and balls with a slider that changes its position depending on ball position. User can throw the ball from slider in different directions like Straight, Right, Left. 
+- Ballbrick is old school game implemented in python. Allows users to play the game in the command line, It is based on a matrix approach It contains bricks having different powers and balls with a slider that changes its position depending on the ball's position. Users can throw the ball from the slider in different directions like Straight, Right, and Left. The Game can be won when all the bricks get destroyed within the ball count. 
 
 # Conditions
 - The game consists power bricks Like DS, DE, B
